@@ -1,0 +1,6 @@
+{
+    "name": "Asana Secondary Sorter",
+    "version": "0.1",
+    "description": "Allows doing a secondary sort of tasks by due date when using today/upcoming/later as the primary sort",
+    "manifest_version": 2
+  }
