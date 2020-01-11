@@ -2,5 +2,13 @@
     "name": "Asana Secondary Sorter",
     "version": "0.1",
     "description": "Allows doing a secondary sort of tasks by due date when using today/upcoming/later as the primary sort",
+    "content_scripts": [
+      {
+	"matches": [
+	  "file://*asana*"
+	],
+	"js": ["logic.js"]
+      }
+],
     "manifest_version": 2
   }
