@@ -5,7 +5,7 @@
     "content_scripts": [
       {
 	"matches": [
-	  "file://*asana*"
+	  "https://app.asana.com/*"
 	],
 	"js": ["logic.js"]
       }
