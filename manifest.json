@@ -7,7 +7,7 @@
 	"matches": [
 	  "https://app.asana.com/*"
 	],
-	"js": ["logic.js"]
+	"js": ["js-joda.js", "logic.js"]
       }
 ],
     "manifest_version": 2
